@@ -29,13 +29,17 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
   		- Networking
   		- Business Ideas
   	- Personal impact
+		- Friendships
   		- internal/external Motivation and encouragement
   		- internal/external Validation
   		- Comfort zone
   	- Social impact
-	  	- Civic problem sets
+		- Civic problem sets
   		- Encourage the newbies
 - Kinds of hackathons
+	- Sponsored hackathons
+		- Incubators
+		- SaaS, Paas
 	- Learning 
 	- Business/Product Idea
 	- Specific API exploration
