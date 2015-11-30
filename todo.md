@@ -8,3 +8,4 @@
 - "Questions and Actions" at the end of each chapter
 - To talk about y, I need to introduce x, which requires describing d. That’s the logic of the structure
 - Can we add hackathon trivia in the end?
+- Should we add section about arranging a hackathon?
