@@ -37,6 +37,7 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 		- Civic problem sets
   		- Encourage the newbies
 - Kinds of hackathons
+	- Data hackathons
 	- Sponsored hackathons
 		- Incubators
 		- SaaS, Paas
@@ -50,6 +51,11 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 		- ACM Style
 		- TC style marathon matches
 		- TCO/GCJ style tournaments
+	- Other names for a hackathon
+		- Appathon
+		- Hackfest
+		- HackDay
+		- CodeFest
 - History of hackathons (optional)
 - Q&A - Questions and Actions
 
@@ -71,6 +77,12 @@ Goal: By end of part III, reader should be able to understand from other people'
 - Inspiration for hackathons
   - Success stories
   - Interviews
+  	- Google Code jam (2)
+	- Top Coder SRM (2)
+	- Top coder open (2)
+	- Facebook HackerCup (2)
+	- Major League Hacking (2)
+	- hackerRank hackathon (2)
   - Horror stories
 - Where to go from here
   - Hackathon resources
