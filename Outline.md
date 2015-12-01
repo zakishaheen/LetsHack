@@ -1,13 +1,24 @@
+Objective: The book aims to answer questions.md and initiate critical thinkers and aspiring inventors to engage of groupthink we called hackathon. 
+
+Audience: Inventors, Producers, Writers, Programmers, Designers, Illustrators, Science and Humanities students
+
+Previous knowledge required: None. Some initiation towards technology would be a plus.  
+
+Need/Potential for the book:
+
+
 # Overview
 - Introduction
-	- Introduction to whole book and what you get out of it
+	- Introduction to the book
 	- Audience
-	- Book map 
+	- Book map (Parts, Chapters)
 	
 # Part I
 Goal: By end of part I, the reader should be motivated about attending a hackathon, identifying kinds of hackathons and knowing which hackathons they want to join. 
 
-- Why hackathons
+- What is a Hackathon?
+	- Definition of 'Hack'
+- Why hackathons?
   - (re)ignite: Your job does not suck (you can still have a lot of fun while having a day job)
   - Skill set improvement
   	- Technical
@@ -24,8 +35,8 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
   		- Prioritization
   		- Rejection
   		- Completion and sportsmanship
-  - Impact
-  	- Career impact (networking, skill set, impact)
+  - Personal, Professional and Social Impact
+  	- Professional impact (networking, skill set, impact)
   		- Networking
   		- Business Ideas
   	- Personal impact
@@ -41,9 +52,11 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 	- Sponsored hackathons
 		- Incubators
 		- SaaS, Paas
-	- Learning 
+	- Free for all 
 	- Business/Product Idea
+		- StartupWeekend
 	- Specific API exploration
+		- Dreamforce
 	- API Mashup
 	- Hardware prototyping
 	- Hardware mashup
@@ -56,9 +69,10 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 		- Hackfest
 		- HackDay
 		- CodeFest
+		- Marathon Matches
+		- Speed programming
 - History of hackathons (optional)
 - Q&A - Questions and Actions
-
 
 # Part II
 Goal: By end of Part II, reader should be able to find, attend and have a meaningful/fun hack experience.
@@ -68,6 +82,8 @@ Goal: By end of Part II, reader should be able to find, attend and have a meanin
 - Selecting what to build in a hackathon
 	- Maintaining a hacklist
 	- tech-mash technique
+- Selecting a team
+- Building your own team
 - Hackathon Strategies
 - Questions and Actions
 

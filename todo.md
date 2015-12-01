@@ -4,8 +4,19 @@
 - follow GTD outline
 - other books on hackathons and hacking?
 - create website, blog. 
-- create personas
+- create personas.
 - "Questions and Actions" at the end of each chapter
 - To talk about y, I need to introduce x, which requires describing d. That’s the logic of the structure
 - Can we add hackathon trivia in the end?
-- Should we add section about arranging a hackathon?
+- Get testimonials
+- Create single page + CTA
+
+- Other content
+	- Audiobook
+	- Expert interviews
+	- Hackathon idea worksheet
+	- Hackathon team worksheet
+	- Disrupt idea list
+	- Hack list of API
+	- Tools for hack
+	- New technology learning ideas
