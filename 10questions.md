@@ -1,6 +1,7 @@
 - What is a Hackathon?
 - What will attending hackathons give me?
 - How does hackathon impact social and personal lives?
+- Are hackathons only for programmers?
 - What kinds of hackathon are there?
 - Which (kinds of) hackathons should/can I participate in?
 - Where can I find hackathons to participate in?
