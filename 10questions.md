@@ -1,0 +1,11 @@
+- What is a Hackathon?
+- What will attending hackathons give me?
+- Where can I find hackathons to participate in?
+- Which (kinds of) hackathons should I participate in?
+- How do I come up with an idea for a hackathon?
+- How do I select my team for a hackathon?
+- How do I pick my technology?
+- What if I don't do good in a hackathon?
+- What kinds of hackathon are there?
+- How to throw a hackathon?
+- How does hackathon impact social and personal lives?
