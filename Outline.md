@@ -48,6 +48,10 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 		- Civic problem sets
   		- Encourage the newbies
 - Kinds of hackathons
+	- Industry Hackathons
+		- Travel
+		- Book publishing
+		- healthcare
 	- Data hackathons
 	- Sponsored hackathons
 		- Incubators
