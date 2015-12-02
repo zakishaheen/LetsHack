@@ -11,6 +11,10 @@
 - Get testimonials
 - Create single page + CTA
 
+
+- hint boxes
+- caution boxes
+
 - Other content
 	- Audiobook
 	- Expert interviews

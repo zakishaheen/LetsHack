@@ -79,12 +79,50 @@ Goal: By end of Part II, reader should be able to find, attend and have a meanin
 
 - Finding a Hackathon
 - Attending a hackathon
+	- limit caffine leading to the day of hackathon, then get the caffine you need.
+	- know your caffine limits. 
+	- avoid accessive caffine. 
+	- avoid accessive food, especially spicy food. 
+	- know your comfort food and drinks. 
+	- homework in the days leading to a hackathon, shortlist ideas/technologies and its okay to work on them early. 
+	- have the tools (reading, writing, building, IDE, UI/UX, version control, presentation) ready
+	- unless it will be a hackathon where you are learning something new, make sure you pick the tools that you know how to use. 
+	- Strategic sleeping
 - Selecting what to build in a hackathon
 	- Maintaining a hacklist
 	- tech-mash technique
+	- set a list of goals
+	- work backwards (from the demo or presentation). It will help you visualise the end result and limit your scope. 
+	- create strech goals. 
+	- setup the task management tool
+	- decide how much to build
+	- on task division
+	- create a talent list
+	- (hint: hunt for other members in the hackathon using networking tools)
+	- (hint: ask organisers if there is a list of people available who will be attending or will there be a pre-hackathon networking session). 
 - Selecting a team
+	- tips for networking
+	- pitching your initial idea for co-founder/team-members
 - Building your own team
+	- Charter for the night
+	- empathetic listening
+	- Common team issues
+		- Slackers
+		- NitPickers
+		- PBA (paralysis by analysis)
+		- Doubters
+	- leading and being lead
+- Demo and Presentations
 - Hackathon Strategies
+	- Timeboxed brainstorming and mind mapping
+	- Timeboxed, target oriented planning
+	- How to avoid Paralysis by analysis
+	- When to pivot the idea
+	- Milestoning
+	- Hallway testing
+	- Guerilla Marketing (need to link a succes story here)
+	- Create a focus zone
+	- Create a focus time 
 - Questions and Actions
 
 # Part III
@@ -99,10 +137,13 @@ Goal: By end of part III, reader should be able to understand from other people'
 	- Facebook HackerCup (2)
 	- Major League Hacking (2)
 	- hackerRank hackathon (2)
+	- Multiple hackathon hackers. 
   - Horror stories
 - Where to go from here
   - Hackathon resources
   - Further readings
+  	- API resources
+	- Blogs to follow
   - Major online hackathons
 
 
