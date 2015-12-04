@@ -1,4 +1,4 @@
-Objective: The book aims to answer questions.md and initiate critical thinkers and aspiring inventors to engage of groupthink we called hackathon. 
+Objective: The book aims to answer questions.md and initiate critical thinkers and aspiring inventors to engage of groupthink/groupdo called a Hackathon. 
 
 Audience: Inventors, Producers, Writers, Programmers, Designers, Illustrators, Science and Humanities students
 

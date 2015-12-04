@@ -24,6 +24,7 @@ Find facebook groups
 Find IRC groups
 Find LinkedIn groups
 Find Google groups
+something like: https://hackathon.guide/?
 
 
 # To do
