@@ -16,8 +16,8 @@ Need/Potential for the book:
 # Part I
 Goal: By end of part I, the reader should be motivated about attending a hackathon, identifying kinds of hackathons and knowing which hackathons they want to join. 
 
-- What is a Hackathon?
-	- Definition of 'Hack'
+✓ What is a Hackathon?
+	✓ Definition of 'Hack'
 - Why hackathons?
   - (re)ignite: Your job does not suck (you can still have a lot of fun while having a day job)
   - Skill set improvement
@@ -127,6 +127,7 @@ Goal: By end of Part II, reader should be able to find, attend and have a meanin
 	- Guerilla Marketing (need to link a succes story here)
 	- Create a focus zone
 	- Create a focus time 
+- Sustainability of a hackathon project
 - Questions and Actions
 
 # Part III
