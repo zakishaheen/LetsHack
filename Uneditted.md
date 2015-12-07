@@ -32,6 +32,30 @@ better understanding of working. novel usages. understanding of how tools work (
 ## 3rd Party tools
 soon you will have a large repretoire of tools that other people make, and use them to create your solution. like uber was built using stripe and other tools. time to interact with those companies. time to understand the consideration that has gone into these tools. time to create your own such tools. Think about setting up a whole stack for a new application. Setup build with adruino and lego mindstom. A lot of hackers take pride, as badges, of which tools they used to create the solution. most time wheelinventors are a loss on hackathons.
 
+# Behavioral
+Hackathons are very commonly attributed for being behavior changing. Here are some of the things you can expect from attending hackathons:
+
+## code wins arguments
+While some debate day in and out on the plausibility of a solution, a hacker goes out and codes it. Got an idea? Everyone does. Show me the code. 
+
+## team work and interdependence
+
+## Pressure
+The social pressure to win. the social pressure to live up to one's promise. add to that the 48 or 24 hour time constraint, team members you do not know about and other things. its a perfect setting for exercising the muscle of pressure. create endurance and sprint speed. increased focus. THe peer pressure to perform. 
+
+## Prioritization
+
+
+## rejection
+like code wins arguments, a hackathon is a commitment to accepting faliure or success. A hackathon is a win-win proposition. No one is a winner and everyone is a winner. everyone goes home proud. if your idea gets rejected or your team did not win anything or simply your idea was not liked at all, this is a place where this is rejoiced. a lot to unlearn from the societal norms. its okay to fail. its okay to crash. 
+
+## Completion 
+initiation deficit
+completion deficit
+doing it over and over again, learning the feels of completing. 
+
+## Sportsmanship
+
 
 Hackathons I have attended:
 - space apps 2015
