@@ -1,6 +1,6 @@
 # What is a hackathon?
 
-Hackathon is 1 or more day long group event in which people collaborate to tackle any 'project'. The nature of a 'project' varies greatly. Participants may be co-located or distributed across the glove, from the same field or with diverse backgrounds and skillset, tackling same problem or working on a diverse set of projects. Sometimes they compete for a prize as well. It tests novelty, endurance, problem solving, team collaboration and technical expertise among other things. To get a deeper understanding of what a Hackathon is and why people spend time in it, its important to understand what the word "hack" means. 
+Hackathon is 1 or more day long group event in which people collaborate to complete any 'project'. The nature of a 'project' varies greatly. Participants may be co-located or distributed across the globe, from the same field or with diverse backgrounds and skillset, tackling same problem or working on a diverse set of projects. Sometimes they compete for a prize as well. It tests novelty, endurance, problem solving, team collaboration and technical expertise among other things. To get a deeper understanding of what a Hackathon is and why people spend time in it, its important to understand what the word "hack" means. 
 
 # What is a hack? 
 
@@ -10,6 +10,21 @@ During the initial time of the interwebs, networking and connectivity enthusiast
 
 Fast farword to mid 2000s when the same concept of "hacking" and "hacker" was turned around by the very people who kickstarted the culture to take back its legacy: the genuine computing enthusiasts. A hackathon was born. Initially, people thought this was a hacking festival where people would come and break networks across company, city or country boundaries. While that may have been the case and true in some cases, majority of  the hackathons tried to reclaim the original definition of a hackathon. Today a "hack" means a quick and novel (usually dirty) solution to any problem. For instance "growth hack" means a novel, uncommon technique that uplifted a company or product's growth (user aquisition) exponentially. Within few years, the word has transformed not only from being a negative one to a positive one, it has seeped into other disciplines such as literature, hardware, travel, medicine, finance. Not only is there a flavor of a hackthon for each industry that requires a computer to work, other industries where computing is not so primary are also adapting the concept. Today, a typical hackathon is 24-48 hours long where participants usually use their skills around computing to create ingenuine products called "hacks". These could be a simple improvement to a website's front-end or replumbing of a more deeper sub-system. This could mean coming up with an new and disruptive outline for a math syllabus or a completely new instrument. this could means learning a new skill in a short time or coming up with a million dollar business idea. Hackathons have come to dominate and define the 2nd decade of this mellinium and it is only getting started. 
 
+# Why attend a Hackathon?
+Hackathons help you improve your skill set and have a strong impact on the overall life. 
+They make way for you to get out of the normality of the day job (and hence your comfort zone) and get your hands dirty in a challenging environment. Most jobs tend to get tedious, boring or simply not challenging enough. Sometimes the job diverges from your original or current passion. This may be becasue of your own self or becasue of things not in your control. Hackathons reignite the passion. 
+
+# Skill set improvement
+While it may be obvious that a 24-48 hour sprint of code would certainly push the limits of a programmer and improving his skillset in a short period of time, other professionals can get a great skill set boost too. Skill set improvements come in two flavors: Technical and behavioral. Let's start with technical ones. 
+
+## Holistic experience
+Hackathons provide a holistic experience of solving a problem or creating a product. While in the day job, you might be responsible for a small part of something big - at a hackathon there is usually a small team which owns big chunks  of solutions. From inception to delivery, you own the pipeline and whatever passes through it. It is incredibly empowering but also daunting.  
+
+## User experience
+
+## Cutting edge
+
+## Existing tools
 
 Hackathons I have attended:
 - space apps 2015

@@ -11,7 +11,7 @@
 
 # To Research
 Enlist People for interviews
-Cost of recording audiobook
+✓ Cost of recording audiobook ($1600_
 Checkout GTD outline
 ✓ Hackathon books on amazon
 ✓ "Hackathon book" > results?
@@ -59,6 +59,13 @@ Reach critical mass to validate market and then create product.
 - TopCoder SRMs (Online) - 2008-2015
 - Yelp Hackathon 18 (SF) - 2015
 - Internal hackathons at Coeus (Python, NodeJS, SimpleDiary) - 2010-2015
+
+# Phrase dump
+Go home feeling proud
+the numbing feeling of an all nighter
+the team crisis
+
+http://unhackathon.org/
 
 # Other books
 Hackathon: How to win a hackathon (http://www.amazon.com/How-win-hackathon-Damian-Montero/dp/1491227311/ref=sr_1_2?s=books&ie=UTF8&qid=1449074954&sr=1-2&keywords=hackathon)
