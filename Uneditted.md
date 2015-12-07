@@ -21,17 +21,24 @@ While it may be obvious that a 24-48 hour sprint of code would certainly push th
 Hackathons provide a holistic experience of solving a problem or creating a product. While in the day job, you might be responsible for a small part of something big - at a hackathon there is usually a small team which owns big chunks  of solutions. From inception to delivery, you own the pipeline and whatever passes through it. It is incredibly empowering but also daunting.  
 
 ## User experience
+In most hackathons where you are creating a product prototype, the prime concern is the user experience. To the UX engineer, this may seem mundane - but it is incredibly important for other disciplines such as programmers, concept artists, engineers to put user experience first. You can get to learn UX tools, processes and common vocabulary. 
 
 ## Cutting edge
+Hackathons give you the leverage and freedom to be bold and risk taking. This means you can use whatever measures to complete your project including using the cutting edge technology. 
 
 ## Existing tools
+better understanding of working. novel usages. understanding of how tools work (or don't) with each other. 
+
+## 3rd Party tools
+soon you will have a large repretoire of tools that other people make, and use them to create your solution. like uber was built using stripe and other tools. time to interact with those companies. time to understand the consideration that has gone into these tools. time to create your own such tools. Think about setting up a whole stack for a new application. Setup build with adruino and lego mindstom. A lot of hackers take pride, as badges, of which tools they used to create the solution. most time wheelinventors are a loss on hackathons.
+
 
 Hackathons I have attended:
 - space apps 2015
 - civic hackathon 2015
 - yelp hackathon 18 2015
 - lahore startup weekend 2015
-- hackerRank hackathons
+- HackerRank hackathons
 - TopCoder SRMs
 
 Major takeaways so far. 
