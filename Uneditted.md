@@ -16,7 +16,7 @@ Fast farword to mid 2000s when the same concept of "hacking" and "hacker" was tu
 Hackathons help you improve your skill set and have a strong impact on the overall life. 
 They make way for you to get out of the normality of the day job (and hence your comfort zone) and get your hands dirty in a challenging environment. Most jobs tend to get tedious, boring or simply not challenging enough. Sometimes the job diverges from your original or current passion. This may be becasue of your own self or becasue of things not in your control. Hackathons reignite the passion. 
 
-### Skill set improvement
+### Skills
 While it may be obvious that a 24-48 hour sprint of code would certainly push the limits of a programmer and improving his skillset in a short period of time, other professionals can get a great skill set boost too. Skill set improvements come in two flavors: Technical and behavioral. Let's start with technical ones. 
 
 #### Holistic experience
@@ -50,7 +50,7 @@ The social pressure to win. the social pressure to live up to one's promise. add
 While there may be room for losing time and redoing a particular piece of product at the cost of money, a hackathon does not have such a leverage. If you go down the wrong path, the price is paid, the time is lost and you must double up to cover up. It is then very important to prioritize the work and keep prioritizing based on the current situation. You will find yourself prioritizing and analyzing the cost/benefit of a particular task several times during the same hackathon. Sometimes, you will have to delay your meal because you prioritize the momentum of work - and sometimes you will have to prioritize sleep at the cost of current momentum because your prioritize the presentation over end product? 
 
 #### rejection
-like code wins arguments, a hackathon is a commitment to accepting faliure or success. A hackathon is a win-win proposition. No one is a winner and everyone is a winner. everyone goes home proud. if your idea gets rejected or your team did not win anything or simply your idea was not liked at all, this is a place where this is rejoiced. a lot to unlearn from the societal norms. its okay to fail. its okay to crash. 
+Like code wins arguments, a hackathon is a commitment to accepting faliure or success. A hackathon is a win-win proposition. No one is a winner and everyone is a winner. everyone goes home proud. if your idea gets rejected or your team did not win anything or simply your idea was not liked at all, this is a place where this is rejoiced. a lot to unlearn from the societal norms. its okay to fail. its okay to crash. 
 
 #### Completion 
 initiation deficit
@@ -58,7 +58,18 @@ completion deficit
 doing it over and over again, learning the feels of completing. 
 
 #### Sportsmanship
+Sportsmanship isn't about taking a losing in a good way but accepting success in a humbling way as well. Of about giving credit where its due. Of naming your team members in your success and highlight the giants upon whose shoulders you stand on. Hackathons will give you the oppertunity to improve upon your sportsmanship.
 
+### Impact
+
+#### Professional Impact
+
+#### Personal Impact
+
+#### Social Impact
+
+
+## Kinds of Hackathons
 
 Hackathons I have attended:
 - space apps 2015
