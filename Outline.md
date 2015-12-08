@@ -18,23 +18,23 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 
 ✓ What is a Hackathon?
 	✓ Definition of 'Hack'
-- Why hackathons?
-  - (re)ignite: Your job does not suck (you can still have a lot of fun while having a day job)
-  - Skill set improvement
-  	- Technical
-  		- 3rd party toolet
-  		- existing tools innards
-  		- Cutting edge technology
-  		- User experience
-		- Presentation Skills  
-  		- Holistic experience
-  	- Behavioral
-  		- Code wins arguments
-  		- Teamwork and Interdependence
-  		- Pressure
-  		- Prioritization
-  		- Rejection
-  		- Completion and sportsmanship
+✓ Why hackathons?
+  ✓ (re)ignite: Your job does not suck (you can still have a lot of fun while having a day job)
+  ✓ Skill set improvement
+  	✓ Technical
+  		✓ 3rd party toolet
+  		✓ existing tools innards
+  		✓ Cutting edge technology
+  		✓ User experience
+		✓ Presentation Skills  
+  		✓ Holistic experience
+  	✓ Behavioral
+  		✓ Code wins arguments
+  		✓ Teamwork and Interdependence
+  		✓ Pressure
+  		✓ Prioritization
+  		✓ Rejection
+  		✓ Completion and sportsmanship
   - Personal, Professional and Social Impact
   	- Professional impact (networking, skill set, impact)
   		- Networking
@@ -47,6 +47,7 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
   	- Social impact
 		- Civic problem sets
   		- Encourage the newbies
+== EDIT ==		  
 - Kinds of hackathons
 	- Industry Hackathons
 		- Travel
@@ -77,7 +78,7 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 		- Speed programming
 - History of hackathons (optional)
 - Q&A - Questions and Actions
-
+== EDIT ==
 # Part II
 Goal: By end of Part II, reader should be able to find, attend and have a meaningful/fun hack experience.
 
