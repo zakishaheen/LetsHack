@@ -1,8 +1,10 @@
-# What is a hackathon?
+# Part I
+
+## What is a hackathon?
 
 Hackathon is 1 or more day long group event in which people collaborate to complete any 'project'. The nature of a 'project' varies greatly. Participants may be co-located or distributed across the globe, from the same field or with diverse backgrounds and skillset, tackling same problem or working on a diverse set of projects. Sometimes they compete for a prize as well. It tests novelty, endurance, problem solving, team collaboration and technical expertise among other things. To get a deeper understanding of what a Hackathon is and why people spend time in it, its important to understand what the word "hack" means. 
 
-# What is a hack? 
+## What is a hack? 
 
 Hack litereally means to "cut open". In this book, I will take it to mean "to work on a project in a novel way to solve a problem in a short period of time".  
 
@@ -10,51 +12,52 @@ During the initial time of the interwebs, networking and connectivity enthusiast
 
 Fast farword to mid 2000s when the same concept of "hacking" and "hacker" was turned around by the very people who kickstarted the culture to take back its legacy: the genuine computing enthusiasts. A hackathon was born. Initially, people thought this was a hacking festival where people would come and break networks across company, city or country boundaries. While that may have been the case and true in some cases, majority of  the hackathons tried to reclaim the original definition of a hackathon. Today a "hack" means a quick and novel (usually dirty) solution to any problem. For instance "growth hack" means a novel, uncommon technique that uplifted a company or product's growth (user aquisition) exponentially. Within few years, the word has transformed not only from being a negative one to a positive one, it has seeped into other disciplines such as literature, hardware, travel, medicine, finance. Not only is there a flavor of a hackthon for each industry that requires a computer to work, other industries where computing is not so primary are also adapting the concept. Today, a typical hackathon is 24-48 hours long where participants usually use their skills around computing to create ingenuine products called "hacks". These could be a simple improvement to a website's front-end or replumbing of a more deeper sub-system. This could mean coming up with an new and disruptive outline for a math syllabus or a completely new instrument. this could means learning a new skill in a short time or coming up with a million dollar business idea. Hackathons have come to dominate and define the 2nd decade of this mellinium and it is only getting started. 
 
-# Why attend a Hackathon?
+## Why attend a Hackathon?
 Hackathons help you improve your skill set and have a strong impact on the overall life. 
 They make way for you to get out of the normality of the day job (and hence your comfort zone) and get your hands dirty in a challenging environment. Most jobs tend to get tedious, boring or simply not challenging enough. Sometimes the job diverges from your original or current passion. This may be becasue of your own self or becasue of things not in your control. Hackathons reignite the passion. 
 
-# Skill set improvement
+### Skill set improvement
 While it may be obvious that a 24-48 hour sprint of code would certainly push the limits of a programmer and improving his skillset in a short period of time, other professionals can get a great skill set boost too. Skill set improvements come in two flavors: Technical and behavioral. Let's start with technical ones. 
 
-## Holistic experience
+#### Holistic experience
 Hackathons provide a holistic experience of solving a problem or creating a product. While in the day job, you might be responsible for a small part of something big - at a hackathon there is usually a small team which owns big chunks  of solutions. From inception to delivery, you own the pipeline and whatever passes through it. It is incredibly empowering but also daunting.  
 
-## User experience
+#### User experience
 In most hackathons where you are creating a product prototype, the prime concern is the user experience. To the UX engineer, this may seem mundane - but it is incredibly important for other disciplines such as programmers, concept artists, engineers to put user experience first. You can get to learn UX tools, processes and common vocabulary. 
 
-## Cutting edge
+#### Cutting edge
 Hackathons give you the leverage and freedom to be bold and risk taking. This means you can use whatever measures to complete your project including using the cutting edge technology. 
 
-## Existing tools
+#### Existing tools
 better understanding of working. novel usages. understanding of how tools work (or don't) with each other. 
 
-## 3rd Party tools
+#### 3rd Party tools
 soon you will have a large repretoire of tools that other people make, and use them to create your solution. like uber was built using stripe and other tools. time to interact with those companies. time to understand the consideration that has gone into these tools. time to create your own such tools. Think about setting up a whole stack for a new application. Setup build with adruino and lego mindstom. A lot of hackers take pride, as badges, of which tools they used to create the solution. most time wheelinventors are a loss on hackathons.
 
-# Behavioral
+### Behavioral
 Hackathons are very commonly attributed for being behavior changing. Here are some of the things you can expect from attending hackathons:
 
-## code wins arguments
-While some debate day in and out on the plausibility of a solution, a hacker goes out and codes it. Got an idea? Everyone does. Show me the code. 
+#### code wins arguments
+While some debate day in and out on the plausibility of a solution, a hacker goes out and codes it. Got an idea? Everyone does. Show us the code. Attending hackathons will instill in you a do vs talk habit. Most times, it does not take more than a focused weekend with a few talented people to really vhet out an idea. 
 
-## team work and interdependence
+#### team work and interdependence
+While the typical hollywood persona of a hacker is that of a lone hunter, hackathons are rarely considered individual battles. They are a team work. More often than not, the team consists of disparate individuals with different skill set. This creates an interesting setup for interdependence and team work. You will learn to ignore nuisances, weaknesses, personality lackings in others and you will start to see these in your own self if you have not seen already. Overcoming these will make you a stronger, resillient, more understanding person.
 
-## Pressure
+#### Pressure
 The social pressure to win. the social pressure to live up to one's promise. add to that the 48 or 24 hour time constraint, team members you do not know about and other things. its a perfect setting for exercising the muscle of pressure. create endurance and sprint speed. increased focus. THe peer pressure to perform. 
 
-## Prioritization
+#### Prioritization
+While there may be room for losing time and redoing a particular piece of product at the cost of money, a hackathon does not have such a leverage. If you go down the wrong path, the price is paid, the time is lost and you must double up to cover up. It is then very important to prioritize the work and keep prioritizing based on the current situation. You will find yourself prioritizing and analyzing the cost/benefit of a particular task several times during the same hackathon. Sometimes, you will have to delay your meal because you prioritize the momentum of work - and sometimes you will have to prioritize sleep at the cost of current momentum because your prioritize the presentation over end product? 
 
-
-## rejection
+#### rejection
 like code wins arguments, a hackathon is a commitment to accepting faliure or success. A hackathon is a win-win proposition. No one is a winner and everyone is a winner. everyone goes home proud. if your idea gets rejected or your team did not win anything or simply your idea was not liked at all, this is a place where this is rejoiced. a lot to unlearn from the societal norms. its okay to fail. its okay to crash. 
 
-## Completion 
+#### Completion 
 initiation deficit
 completion deficit
 doing it over and over again, learning the feels of completing. 
 
-## Sportsmanship
+#### Sportsmanship
 
 
 Hackathons I have attended:
