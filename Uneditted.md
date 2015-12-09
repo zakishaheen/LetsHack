@@ -1,4 +1,9 @@
 # Part I
+## Introduction
+?? Who am I
+?? Why am I writing this
+?? Who is this book for
+
 
 ## What is a hackathon?
 
@@ -63,9 +68,18 @@ Sportsmanship isn't about taking a losing in a good way but accepting success in
 ### Impact
 
 #### Professional Impact
+"Your network is your net worth". Hackathons are a great way to connect to the community of your discipline but also to expand into other disciplines. Its a great way for developers to connect with mentoring CEOs, designers, usability experts and even animal right activists. The data journalism hackathon called dhack brought together journalists, criminologists, public servants, developers and data scientists together. It would otherwise take a lot of hard work to get such a diverse group to sit together for even an hour, let alone a whole weekend. 
+
+Hackathons also provide you an oppertunity to break into other fields of your occupation. A mobile developer experimenting with data science tools using crime data of his city not only expands his knowledge to data science but also to journalism. Learning by doing is a great way to expand the knowledge. 
+
+We will see in later chapters that one of the major motivation for most organisations to throw a hackathon is so that they can find potential people to recruit. Hackathons are a great way to learn about other people you would want to work with. An interview only lasts an hour and is a very controlled environment. It also does not give oppertunity to see someone 'build' something, handle the pressure, prioritize, work with team members and handle rejection. More and more companies are investing heavily in throwing public hackathons that serve those who throw the hackathon and those who attend it. 
 
 #### Personal Impact
+Human fulfillment is a function that extends beyond job, salary and occassional fun. Humans want to connect with others. They need validation. Hackathons are a good place where you can lose yourself and connect to someone without the pressure of 'professionalism' and such. These interactions can someones lead to lasting friendships. 
 
+Humans also seek to immortalize their existence in one way or the other. THey seek to leave behind a legacy, something that people may remember them with when they're gone. This drives the motivation to build things. Many people have an initiation deficit and hence cannot get their own selves to take the first steps towards building their dream product. Hackathon encourages and sometimes even tricks your brain into taking those first steps without you realising it. This brings immense personal satisfaction. More importantly, it brings encouragement and motivation to leverage the momentum. 
+
+Soon the normalicy of the job kicks in. You have relationships, kids or other commitments and feel comfortable in them. To get thrown out of your comfort zone is the need of the hour for growth. Hackathons provide a controlled environment and platform to push yourself out of your comfortzone. Hackathons such as StartupWeekend force you to get out of your comfort zone as a developer and persue your product vision, get to the stage and pitch it and live up to the developer pristege you have gathered. Its a great place to challenge yourself into hustling to gain users, etc. 
 #### Social Impact
 
 

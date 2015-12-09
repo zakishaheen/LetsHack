@@ -15,6 +15,10 @@ Enlist People for interviews
 Checkout GTD outline
 ✓ Hackathon books on amazon
 ✓ "Hackathon book" > results?
+Stories in each section/chapter (40% stories)
+inspirational images for each section
+can we do this like an HTML5 book with parallax stuff?
+Launch on iBooks?
 List all possible queries for hackathon related material. 
 Quotes (like GTD)
 research "Questions and Actions" at the end of each chapter
@@ -25,7 +29,6 @@ Find IRC groups
 Find LinkedIn groups
 Find Google groups
 something like: https://hackathon.guide/?
-
 
 # To do
 ✓ 10 questions the book must answer (search quora)
