@@ -80,10 +80,11 @@ Human fulfillment is a function that extends beyond job, salary and occassional 
 Humans also seek to immortalize their existence in one way or the other. THey seek to leave behind a legacy, something that people may remember them with when they're gone. This drives the motivation to build things. Many people have an initiation deficit and hence cannot get their own selves to take the first steps towards building their dream product. Hackathon encourages and sometimes even tricks your brain into taking those first steps without you realising it. This brings immense personal satisfaction. More importantly, it brings encouragement and motivation to leverage the momentum. 
 
 Soon the normalicy of the job kicks in. You have relationships, kids or other commitments and feel comfortable in them. To get thrown out of your comfort zone is the need of the hour for growth. Hackathons provide a controlled environment and platform to push yourself out of your comfortzone. Hackathons such as StartupWeekend force you to get out of your comfort zone as a developer and persue your product vision, get to the stage and pitch it and live up to the developer pristege you have gathered. Its a great place to challenge yourself into hustling to gain users, etc. 
+
 #### Social Impact
+Increasingly governments are realizing the potential of engaging the community in helping it solve problems thru technology. With help of volunteers or sometimes even private organisations, they throw a civic hackathon. CodeForAmerica and its spinoffs across the world are doing wonders in creating better communities and solving hard problems. Governments are also investing in collecting, cleaning and publicizing their data to rest of the world to hack on. Crime, Utility consumption and several other kinds of data are readily available now. This creates an unprecedented oppertunity for the people living in the mellenial era to solve problems are scale. Hackathons are the missing link between civics and capitalism. They connect the best minds busy to build the next great app or product to come and solve the next big problem, for a 100,000 people. 
 
-
-
+Another social impact of hackathons is inspiring the upcoming gnerations to engage in meaningful, drug-free and fun events that not only streches their brain, it brings a sense of civics in them as well. 
 
 ===============================
 ## Kinds of Hackathons

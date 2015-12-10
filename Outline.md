@@ -35,18 +35,18 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
   		✓ Prioritization
   		✓ Rejection
   		✓ Completion and sportsmanship
-  - Personal, Professional and Social Impact
-  	- Professional impact (networking, skill set, impact)
-  		- Networking
-  		- Business Ideas
-  	- Personal impact
-		- Friendships
-  		- internal/external Motivation and encouragement
-  		- internal/external Validation
-  		- Comfort zone
-  	- Social impact
-		- Civic problem sets
-  		- Encourage the newbies
+  ✓ Personal, Professional and Social Impact
+  	✓ Professional impact (networking, skill set, impact)
+  		✓ Networking
+  		✓ Business Ideas
+  	✓ Personal impact
+		✓ Friendships
+  		✓ internal/external Motivation and encouragement
+  		✓ internal/external Validation
+  		✓ Comfort zone
+  	? Social impact
+		? Civic problem sets
+  		? Encourage the newbies
 == EDIT ==		  
 - Kinds of hackathons
 	- Industry Hackathons

@@ -11,3 +11,11 @@
 - What if I don't do good in a hackathon?
 - How to throw a hackathon?
 
+# Other questions
+- What are the most common mistakes new hackers make at hackathons?
+- What are some tips/techniques/hacks hackers use in hackathons?
+- tips for performing best in competitive programming? (different book)
+- How much should I prioritize the hackathon from career perspective?
+- What is the future of hackathons?
+- Is there a hackathon for X?
+- Is there a hackathon for X+Y?
