@@ -12,6 +12,7 @@ Need/Potential for the book:
 	- Introduction to the book
 	- Audience
 	- Book map (Parts, Chapters)
+	- How to navigate the book
 	
 # Part I
 Goal: By end of part I, the reader should be motivated about attending a hackathon, identifying kinds of hackathons and knowing which hackathons they want to join. 
@@ -44,10 +45,12 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
   		✓ internal/external Motivation and encouragement
   		✓ internal/external Validation
   		✓ Comfort zone
-  	? Social impact
-		? Civic problem sets
-  		? Encourage the newbies
-== EDIT ==		  
+  	✓ Social impact
+		✓ Civic problem sets
+  		✓ Encourage the newbies
+== EDIT ==
+
+		  
 - Kinds of hackathons
 	- Industry Hackathons
 		- Travel

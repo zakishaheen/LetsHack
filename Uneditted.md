@@ -3,7 +3,7 @@
 ?? Who am I
 ?? Why am I writing this
 ?? Who is this book for
-
+?? how to navigate the book
 
 ## What is a hackathon?
 
@@ -24,14 +24,14 @@ Fast farward to mid 2000s when the same concept of "hacking" and "hacker" was tu
 Thanks to them, today a "hack" means a quick and novel (usually dirty) solution to a problem. For instance "growth hack" means an uncommon technique that uplifts a company or product's growth (user aquisition) exponentially. Within few years, the word has transformed not only from being a negative one to a positive one, it has seeped into other disciplines such as literature, hardware, travel, medicine, finance. [Give examples] Not only is there a flavor of a hackthon for each industry [Exmaples. images] that requires a computer to work, other industries where computing is not so primary are also adapting the concept. Today, a typical hackathon is 24-48 hours long where participants use their skills around computing to create ingenuine products called "hacks". These could be a simple improvement to a website's front-end or replumbing of a more deeper sub-system. This could mean coming up with an new and disruptive outline for a math syllabus or a completely new musical instrument. This could means learning a new skill in a short time or coming up with a million dollar business idea. Hackathons have come to dominate and define the 2nd decade of this mellinium and it is only getting started. 
 
 ## Why attend a Hackathon?
-Hackathons help you improve your skill set and have a strong impact on the overall life. 
-They make way for you to get out of the normality of the day job (and hence your comfort zone) and get your hands dirty in a challenging environment. Most jobs tend to get tedious, boring or simply not challenging enough. Sometimes the job diverges from your original or current passion. This may be becasue of your own self or becasue of things not in your control. Hackathons reignite the passion. 
+Hackathons improve your existing skills and provide oppertunity to acquire new ones, fast. They also have a strong professional, personal and social impact as well.  
+They make way for you to get out of the normality of the day job (and hence your comfort zone) and get your hands dirty in a challenging environment. Most jobs tend to get tedious, boring or simply not challenging enough. Sometimes the job diverges from your original or current passion. This may be becasue of your own self or because of things not in your control. Hackathons reignite the passion. 
 
 ### Skills
-While it may be obvious that a 24-48 hour sprint of code would certainly push the limits of a programmer and improving his skillset in a short period of time, other professionals can get a great skill set boost too. Skill set improvements come in two flavors: Technical and behavioral. Let's start with technical ones. 
+While it may be obvious that a 24-48 hour sprint of code would certainly push the limits of a programmer and improving his skillset in a short period of time, other professionals can get a great skill set boost too [rephrase]. Skill set improvements come in two flavors: Technical and behavioral. Let's start with technical ones. 
 
 #### Holistic experience
-Hackathons provide a holistic experience of solving a problem or creating a product. While in the day job, you might be responsible for a small part of something big - at a hackathon there is usually a small team which owns big chunks  of solutions. From inception to delivery, you own the pipeline and whatever passes through it. It is incredibly empowering but also daunting.  
+Hackathons provide a holistic experience of solving a problem or creating a product. While in the day job, you might be responsible for a small part of something big - at a hackathon there is usually a small team which owns big chunks  of solutions. From inception to delivery, you own the pipeline and whatever passes through it. It is incredibly empowering but also daunting. It instills emphathy for other jobs in your discipline. It installs perservarance to complete. The only way out of a hackathon is through it.   
 
 #### User experience
 In most hackathons where you are creating a product prototype, the prime concern is the user experience. To the UX engineer, this may seem mundane - but it is incredibly important for other disciplines such as programmers, concept artists, engineers to put user experience first. You can get to learn UX tools, processes and common vocabulary. 

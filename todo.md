@@ -11,24 +11,24 @@
 
 # To Research
 Enlist People for interviews
-✓ Cost of recording audiobook ($1600_
+✓ Cost of recording audiobook ($1600-$2000)
 Checkout GTD outline
 ✓ Hackathon books on amazon
 ✓ "Hackathon book" > results?
 Stories in each section/chapter (40% stories)
-inspirational images for each section
-can we do this like an HTML5 book with parallax stuff?
+Inspirational images for each section
+Can we do this like an HTML5 book with parallax stuff?
 Launch on iBooks?
 List all possible queries for hackathon related material. 
 Quotes (like GTD)
-research "Questions and Actions" at the end of each chapter
+Research "Questions and Actions" at the end of each chapter
 Cost of cover and copy design
-Formats to launch on
+Formats to launch on (pdf, epub, ibooks, hardcopy, paperback)
 Find facebook groups
 Find IRC groups
 Find LinkedIn groups
 Find Google groups
-something like: https://hackathon.guide/?
+Something like: https://hackathon.guide/?
 
 # To do
 ✓ 10 questions the book must answer (search quora)
