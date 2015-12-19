@@ -9,4 +9,6 @@
     * History of hackathons
     * Questions and Actions
 * Part 2
+    * Finding a hackathon
+    * Attending a hackathon
 * Part 3
