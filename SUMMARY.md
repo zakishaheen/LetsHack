@@ -15,4 +15,8 @@
     * Selecting a team
     * Building your team
     * Demos and presentations
+    * Hackathon strategies
+    * After the hackathon
+    * Questions and actions
 * Part 3
+    * 
