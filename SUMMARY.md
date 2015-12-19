@@ -11,4 +11,6 @@
 * Part 2
     * Finding a hackathon
     * Attending a hackathon
+    * Selecting a project
+    * Selecting a team
 * Part 3
