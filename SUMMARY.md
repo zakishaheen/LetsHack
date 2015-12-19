@@ -7,7 +7,7 @@
    * [What is a hack?](part-1/what_is_a_hack.md)
    * [Why attend a hackathon?](part-1/why_attend_a_hackathon.md)
    * Kinds of Hackathons
-   * History of hackathons
+   * [History of hackathons](part-1/history_of_hackathons.md)
    * [Questions and Actions](part-1/questions_and_actions.md)
 * [Part 2](part-2/README.md)
    * [Finding a hackathon](part-2/finding_a_hackathon.md)
