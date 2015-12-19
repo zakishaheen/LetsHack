@@ -10,7 +10,7 @@
    * History of hackathons
    * Questions and Actions
 * [Part 2](part-2/README.md)
-   * Finding a hackathon
+   * [Finding a hackathon](part-2/finding_a_hackathon.md)
    * Attending a hackathon
    * Selecting a project
    * Selecting a team
