@@ -13,4 +13,6 @@
     * Attending a hackathon
     * Selecting a project
     * Selecting a team
+    * Building your team
+    * Demos and presentations
 * Part 3
