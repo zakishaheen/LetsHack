@@ -4,5 +4,5 @@
 * [Introduction](intro/introduction.md)
 * [What is a hackathon](part-1/what_is_a_hackathon.md)
 * [What is a hack?](part-1/what_is_a_hack.md)
-* Why attend a hackathon?
+* [Why attend a hackathon?](part-1/why_attend_a_hackathon.md)
 
