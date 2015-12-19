@@ -14,8 +14,7 @@ While there are several books dedicated to competing in ACM style competition pr
 ## Who is this book for?
 This book is for young people folleying their way into the technology sphere. When I say young, I do not mean young by age but young in terms of experience. I also mean young at heart. Hackathons are for everyone and they are fun but you would certainly need some internal motivation to attend one. Chances are, if you are reading this, you already have a motivation to know more about the hackahtons and participate in one. 
 
-I have tried to include disciplines other than software development professionals. This book is for anyone who uses technology to build things. This includes illistrators, designers, manufacturers, photographers and even writers.   
-
+I have tried to include disciplines other than software development professionals. This book is for anyone who uses technology to build things. This includes illistrators, designers, manufacturers, photographers and even writers. 
 
 ## How to navigate?
 This book is divided in three parts. Feel free to jump between them and by no means I suggest reading this book cover to cover. I encourage readers to go out and attend as many social events like hackathons and revisit parts of this book that relate to the exeprience.
