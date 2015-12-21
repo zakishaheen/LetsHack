@@ -9,6 +9,7 @@
    * [Kinds of Hackathons](part-1/kinds_of_hackathons.md)
    * [History of hackathons](part-1/history_of_hackathons.md)
    * [Questions and Actions](part-1/questions_and_actions.md)
+   * [Summary](part-1/summary.md)
 * [Part 2](part-2/README.md)
    * [Finding a hackathon](part-2/finding_a_hackathon.md)
    * Attending a hackathon
