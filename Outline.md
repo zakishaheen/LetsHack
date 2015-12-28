@@ -86,6 +86,7 @@ Goal: By end of part I, the reader should be motivated about attending a hackath
 Goal: By end of Part II, reader should be able to find, attend and have a meaningful/fun hack experience.
 
 - Finding a Hackathon
+- Common tools for hackathons
 - Attending a hackathon
 	- limit caffine leading to the day of hackathon, then get the caffine you need.
 	- know your caffine limits. 

@@ -1,15 +1,40 @@
-
-
 # Part I
+## Kinds of Hackathons
+Not all hackathons are made equal. In this chapter we'll learn what different kinds of hackathons are so that you can decide which ones to sign up for. 
 
+### Industry specific hackathons
+Travel, Healthcare, Publishing are a few industries among others who regularly organize hackathons. The organizers are mostly organisations who are already in the business. These could also be media houses wanting to throw a hackathon within their industry to get attention. These hackathons aim to disrupt the industry they relate to. 
 
+As these are industry specific hackathons, they sometimes do require some prior domain knowledge. Here are some kinds of industry hackathons and what may advantage you to know before attending the hackathon. Don't be intimidated by these topics. A true hacker is always looking to learn something new. If you are passionate about the industry, learning about these would initiate you and attending a hackathon will engage you with the industry. That is quicker than waiting to land a job in any of these industries to start learning.  
 
+- Travel
+Different kinds of booking engines.
+Flight reservation engines and APIs. 
+price comparison engines. 
+Iternerary builders. 
+Mapping solutions and APIs. 
+Path algorithms and services. 
+Cloud Storage and Compute infrastructures.
+online travel regulatory information.
+Etihad, Booking, Emirates, Priceline, Expedia regularly hold hackathons.   
 
+The most improtant skill you need is the passion for this industry enough to know the problems or challenges that remain to be solved. Do you care about passenger boredom on long layovers or think there is a better way to track lost luggage? Know a way to increase hotel bookings or make the in-unit experience better for vacation rentals? This is the kind of hackathon you need to be joining. You don't even need to be a programmer for these hackathons. 
 
+- Healthcare and Medicine
+patient data formats
+scientific data formats
+disease or function specific algorithms and formulae. 
+public data sets
+visualisation tools
+medical imagary tools
+
+Hackathons are not always about launching the biggest most bad ass product within a weekend. Its about small changes that improve lives in substantial ways. 
+
+- Publishing
+
+- Space
 
 ===============================
-## Kinds of Hackathons
-
 Hackathons I have attended:
 - space apps 2015
 - civic hackathon 2015
