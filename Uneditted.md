@@ -60,6 +60,48 @@ if you find yourself looking at "how to" tutorials and beginner level things for
  there are joys in coding and the most joyful time of coding is when one in 'the zone'. this could mean cutting off from the team and the event for a considerable amout of time. This can prove to be fatal in different ways. First, keep integrating your hack with rest of the team members and make sure your work is compatible. You don't want to an incompatible software system. Secondly, seek and provide help. Its okay to ask. Its okay to not know a few things. Yes you can "google it yourself" but sometimes having a real conversation is more helpful than reading a blog. Finally, you can compound your hackathon fun by getting in on other projects. Take a break, walk around and socialize with other groups. See what they are making and learn what they are doing. at the end of the day, its the personal connections that will be more memorable than the thing you built. 
  
  - posessive ideas
+ An important principle for startups is to ship early, fail early. A typical trait of new hackers is that they get married to their idea in the inception stage and find it really hard to let go of it for something better. We are all buzzing with ideas all the time. Your brain is an idea generating organ. Like David Allen says, your brain is for "having" ideas not "storing them". Jhonny Ive says that one of the crucial components of his relationship with Steve Jobs was the mutual understanding of how "fragile" ideas were. One second they are there, the other they are gone. While I do highly recommend taking each idea seriously; at least enough seriously to put it down in writing. But once you have chosen an idea, keep the options open to pivot from the idea or dump it altogether. Here are a few ideas to ease the process of pivoting:
+ 
+ How to select an idea
+ 1. Develop a habit to capture your ideas. There is no science to when an idea will be concieved. It can be anytime and anywhere. Your mind is constantly taking input and processing those inputs. Two or more seemingly unrelated inputs can fire a certain permutation of neurons which give birth to a new "kind" of "thought". We call this thought an "idea". [Parallel neurons]. The most novel of these neuron combinations only fire for a nano second but our executive brain is able to detect it. The trick is to capture it because our brain is not very able to rememeber it for long. This is why you forget your dreams (and interestingly, the way to improve your dream rememeberance is to write them first thing in the morning). 
+ 
+ You can keep a notebook or use an application or even email or SMS yourself the tagline for the idea to capture it. If you are the talker, record it. Quiet a few times you will realise that when you review your input a few days later, you have no idea what you were thinking about. This is a case of low-fidelity capture. Try to add as much context as possible to your ideas. leave the editing, categorization and triaging for sometime later. Limit yourself to "capturing" only and refrain from "evaluating". Stop the nay-sayer in your to speak up at any time during the capture phase. 
+ 
+ The second most important habit you need is the review these ideas at a regular basis. The review process starts with going thru each idea and simply cleaning the text in the first pass.  In the subsequent passes, you can 'tag' your ideas in different categories as you may seem fit. Remember, that even at this point you are not 'evaluating' anything. The idea could be as dopey as building a waterline from newyork to san leandro, CA to solve the drought crisis. 
+ 
+ The third phase is a "brainstorm" phase for a particular idea. Most people who have a hard time delivering an idea to reality fail to segregate "brainstorm" from "planning". All these activities of a creative process, though iterative, are different activities and require different mindset. Timebox the brainstorming session to 5-50 minutes and generate more ideas (deliberately this time) around the topic. Its important not to simply come up with ideas, you have to comeup with principles and purpose, the vision, the outcome you are expecting. Don't be self-critical - but expansive. 
+ 
+ The fourth phase is "planning and organization". At this point you take your brainstorming notes and organize them into "components", "priorities" and "sequences". You can use some arbitrary unit for estimation or even sort them by how clear you are about something. 
+ 
+ Depending on how big a project you are undertaking, "planning and organiation" can again take from 5-50 minutes (or even days but it falls short of ship early, ship often philosophy). 
+ 
+ The last phase is "scoping and doing". In a hackathon you are time constrained. You are also constrained by some other factors (for example, you might not have access to certain APIs or certain data sets - or even certain people you require on the project). Given these constraints, you will have to narrow the scope of your project. You can follow the "MVP" process here. You are also not sure about the "market validation" of your hack. Hopefully, if your brainstorm was thorough, you would have figured out who your target user is, what problem you are going to fix and how many people actually have that problem. If you haven't captured these metrics, you would have touched on them to do it once you start the project. At several points during the plan, keep an option to sack the project or pivot it. Hence you need to create a scope of your project. I prefer defining a few versions and checkpoints upon which I will review those versions. Once you have scoped a few things form your original plan to your first checkpoint (or first few checkpoints) you can start assigning things to your team. 
+ 
+ It is important to engage your team from step 3 onwards. Step 1 and 2 is expected from all team members ideally. In that case, everyone can combine their captured ideas into one big list. For example, they can do some homework a couple of days in advance to pick 5 ideas from their ideas backlog to bring ot the table for hackathon. If you have 3 members, you now have 15 things you can potentially build during a hackathon. You can add a collective idea selection phase after phase 2 in which you put all your ideas on the table and spend an hour or so deciding which 2 or 3 ideas are worth doing or are doable. At this point you do not know much about the details so its good to have several options in case you decide to pivot down the line (when the devil in the detail shows up). 
+ 
+ 
+ So the whole process is like this:
+ Phase 1: Capture.
+ Frequency: all the time.
+ People: everyone. 
+ Where: private, individual lists. 
+ 
+ Phase 2: review. 
+ Frequency: every 7-15 days. 
+ people: everyone. 
+ Where: private, individually.
+ 
+ Phase 2.5: Idea collection for an event. 
+ Phase 2.6: Idea selection for an event. 
+ 
+ Phase 3: idea brainstorm. 
+ Frequency: infrequent.
+ 
+ Phase 4: idea planning and organisation
+ 
+ Phase 5: idea scoping and doing.
+ 
+ These are mostly guidelines and I do not advocate processifying the hackathons. Strict processes bring rigidity and people tend to lose the fun and sponteneity of hackathons while trying to follow a strict process. 
  
 
 ===============================
