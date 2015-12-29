@@ -34,6 +34,34 @@ Hackathons are not always about launching the biggest most bad ass product withi
 
 - Space
 
+# Data hackathons
+To understand different kinds of hackathons, one must understand the core nature of software development. Its about "information processing" and "problem solving". After the invention of writing we have exponentially grown our knowledge channels. Documenting personal exerpiences and taking empirical measurements to creating financial transaction processing systems and medical expert systems. There is software that helps you add data. Then there is software that helps you edit and clean it. There is software that 'generates' data, this kind helps you run experiments. there is software that processes this data. Processing has different natures. FOr instance, "transformation", reduction, deduction. the prcessing can be of higher degree as well. There are software that convert data to information and then from information to knowledge. Consider a police department in a developing country that is tracking its crime data in manual logs. This creates a slowdown in terms of adding and searching. its not extensible. its not secure. the data is not easily shareable either. hence it doesn't even live up to the first degree of information processing. During a hackathon you might start with a way to help police officers log this data more easily in a central place (an app perhaps?). Another hackathon might be to take the data and clean it. A data scientist can go thru several months of data, perhaps several years and "visualize" it and create algorithms to make predictions. This level of problem solving would never have been possible otherwise. 
+
+While there are specific data hackathons, data hacks show up more often than other categories. In one of the civic hackathons I attended in Islamabad Pakistan, people mapped out school data (which was gathered using a system made in an earlier hackathon). Having a geographic data is helpful but that is not the only kind of visualisation. The data was visualized on many important categories such as facilities available at the school, the teacher quality, the teacher to student ration and so on. At the NASA SpaceApps hackathon a team gathered the water flow data and created an interactive system to visualize it. 
+
+
+Things that hold you from joining a hakcathon
+
+
+Things that people do wrong often
+- over-negative/cross-questioning
+In this case people try to outquestion each other while brainstorming and try too hard to break the idea in order to make something truely spectacular. The arguments usually take the form of "that's not possible because..." or "if we do this, then feature X will break...". An over generalized argument is "why care for someone's health. he is going to die anyway, eventually".
+
+- neat freaks
+You don't have to care about your design patterns. 
+
+- initiation deficit
+If you have signed up for a hackahton and showed up for it, congratulations. You have already overcome a form of initiation deficit. Initiation deficit is the inability to get started on an endeavor no matter how simple it is. But its common to experience initiation deficit when a hackathon starts. You have an idea nand it sounds reasonable but now you don't know how to start. 
+
+- general inexperience
+if you find yourself looking at "how to" tutorials and beginner level things for a technology you are going to write your hack project in, then you are in experienced in it. While it is fun to learn new things, its not so fun if that is not your intention. Creating a product and learning a new technology are both hard work. Doing that in a span of 24 hours is a lot of work. If you want to get things built, pick a technology you know really well and use it. It  doesn't matter if your friend told you to make a website in django. If you know PHP, go for PHP. Learning Django means learning python and may even require learning a different kind of ORM. 
+
+ - not communicate
+ there are joys in coding and the most joyful time of coding is when one in 'the zone'. this could mean cutting off from the team and the event for a considerable amout of time. This can prove to be fatal in different ways. First, keep integrating your hack with rest of the team members and make sure your work is compatible. You don't want to an incompatible software system. Secondly, seek and provide help. Its okay to ask. Its okay to not know a few things. Yes you can "google it yourself" but sometimes having a real conversation is more helpful than reading a blog. Finally, you can compound your hackathon fun by getting in on other projects. Take a break, walk around and socialize with other groups. See what they are making and learn what they are doing. at the end of the day, its the personal connections that will be more memorable than the thing you built. 
+ 
+ - posessive ideas
+ 
+
 ===============================
 Hackathons I have attended:
 - space apps 2015
