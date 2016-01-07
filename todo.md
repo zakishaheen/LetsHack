@@ -34,6 +34,7 @@ Something like: https://hackathon.guide/?
 
 # To do
 ✓ 10 questions the book must answer (search quora)
+inverted pyramid modeling
 - Write Summarised Answers
 - create website, blog. 
 - create personas.
