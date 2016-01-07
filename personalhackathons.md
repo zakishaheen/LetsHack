@@ -89,13 +89,32 @@ At one point when another team was presenting a full fledged voice controlled ro
 ## Other memorable experiences
 --
 
-
 # Lahore StartupWeekend (LHE) - 2015
-prepared idea, time waste in learning to prototype the application (we wanted to use the Google material design with angular). Divided between presentation and code. Should have worked more on UI and presentation - the idea was not totally understandable by everyone. The atmostphere was most energetic. [Expect some issues when some or most of your team members, or yourself even, are not familiar and experienced with the hackathons]. 20 minute brainstorm, 20 minute vote/discussion. 
+## Who are you and what do you do?
+## Who was on your hackathon team?
+We were one backend engineer (PHP), one iOS engineer and a business executive (CEO of a company in Islamabad). 
+## How did you hear about the hackathon?
+I have been following the startupa scene in Lahore so I heard about it thru social media.  
+## What was your team's big idea?
+We wanted to cetralize the processes information of acquiring critical government issued documents. 
+## How did your team come up with the idea?
+I had been talking to my backend developers a few days before the hackathon. He had presented a few ideas and I presented mine. We decided that DocumentComplete is something both of us relate to very well (almost anyone would). We had a rough idea of what we wanted to build. 
+## What key (technological) decisions did you make and how?
+We decided to prototype with AngularJS becasue that was something we wanted to learn. We did a lot of paper mockups.
+## What were the major achievements or takeaways from the hackathon?
+I think one of the good things I experimented with was the design process. We timeboxed our brainstorm sessions to 20 minutes and everyone would take with them whatever they wanted to from the brainstorm. Each brainstorm was in a very specific feature or screen. Each person would then go back and do a paper mockup of how they envision it to work. This may take 15-60 minutes depending on the complexity of the feature. We would thn assemble and present the idea to each other, give our critique and do another smaller iteration on the designs. At this point we voted for each screen and picked the best one and moved on. Systematically, we had a good UX setup. The only downside was that it took a lot of time and we were not concentrating on implementing or prototpying it properly. We learned a lot about setting up our financials. We decided we'll need an IVR service so I hustled to talk to an IVR recorder to get a static recording. 
+## What challenges or setbacks did you face?
+We had no idea how to prototpye in AngularJS. While it was a fun time spent learning it, that usualyl isn't the intention in the hackathons. When you have an idea you want to build, make sure to pick a technology you know very well. 
+## Any other memorable experience or take away form the hackathon?
+There was a lot of good networking experience. I had a good experience presenting the idea to a whoele bunch of investors and their questions were fun. Obviously, no one saw our demo and I think we wasted the night toiling at the code screens trying to make Material design work in AngularJS somehow. 
+
+
+
 
 - HackerRank CodeSprints (Online) - 2015 - Individual Competitive programming hackathon. 5 problems ranging in difficulty. Favorite kind of hackathons - very heady and intense. we had a few redbulls so that did slightly make me jittery. It was on a weekend and we had had a tough week. Thrilling as it may sound or feel, it is almost never a good idea to burn out. 
 
 - TopCoder SRMs (Online) - 2008-2015 - 75 minute individual matches with challenge round, system tests.. very doable if your time matches. 
+
 
 - Yelp Hackathon 18 (SF) - 2015, 
 
