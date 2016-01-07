@@ -1,7 +1,23 @@
 # personal hackathon exeperience
-- LeWeb (Remote - Paris) - 2010, Retilo News, Alcatel-Lucent, Titanium Appcelerator, time spent in learning appcelerator - but was a strategic decision to include other team members but also to do rapid development. Alcatel-Lucent realtime API parsing was also more efficient done in JS. We had a designer, a middle-tier JS engineer and two mobile engineers. We had a fairly solidly designed application that performed fast too. It was a news app that took advantage of the real time APIs provided by alcatel lucent. The learning curve for JS is refreshingly easy - but since it does add a layer on top of iOS, you lose a lot of control. Depending on what kind of hack you are working on, this can be a blessing or curse. 
- 
-# AngelHack (Remote - SF) - 2012, HOBZ, iOS Native, Basecamp (lot of time waste in oAuth).
+
+# LeWeb 2010 - Paris, France
+## Who was on the team?
+We were two iOS engineers, 1 designer and 1 JS developer.
+## How did you hear about the hackathon?
+We were attending the LeWeb 2010 conference in Paris and came to know about the event on site. 
+## What was the big idea?
+The hackathon was sponsored by Alcatel-Lucent. They had created an API for real-time news and wanted developers to explore it. We wanted to create a small news app that leveraged their API to search article, photos, videos and more. 
+## How did you come up with the idea?
+The decision was easy for us because we were already constraint by the usage of Alcatel-Lucent API. Since it provided a real-time search API, we thought we could either go to a niche search app or a generic one. We went for the generic one as it was our first hackathon and we were feeling terribly adventurous.  
+## What were the major achievements from the hackathon?
+In a typical hackathon fashion, we want to go as far with Appclerator Titanium as we could. We kept the design simple and a well defined scope. Note that apart from the person working on parsing the API responses, the iOS engineers had no background in JAvascript. We took great liberty at bending the rules of OO. We learned Javascript development and developing on the Titanium platform. 
+## How did you make the technology choice?
+I wanted to explore cross platform development tools. After spending some time with a Flash based cross platform app development tool (I think it was called Flex-something - not the Adobe Flex). We abandoned it within few hours because it was limiting our iteration pace. We then moved to Appcelerator Titanium, something I wanted to try out. It was in 1.6v at that point and was fairly simple. The decision came as a blessing because the API requests and responses because a breeze in JS.
+## What challenges did you face?
+First we spent some time tinkering with the flash based cross platform tool. It did not workout well. Its hard to predict things like that. The other major challenge was learning JS. It was also intersting to have a slightly different perspective to iOS application development because now we were not dealing with Apple provided public frameworks but a toned down JS framework on top of the native framework. It was also the first hackathon for most team members and they had a rough time pulling through the 24 hours. 
+## Any other takeaways?
+
+# AngelHack 2012 - San Francisco, USA
 ## Who was on the team?
 We were 3 hackers. 2 iOS and one general. He is a product guy.  
 ## How did you hear about the hackathon? 
@@ -16,6 +32,8 @@ We came up with a pretty solid useable application and it was fun. We learned th
 Though this app could have lent it self much better to Appcelerators rapid development cycle, we chose native. We use the basecamp classic API to create a login. 
 ## What challenges did you face?
 Two experienced developers but one got tired early. we chose to work in the office and had power breakdowns. [It pays off to prepare mentally ahead of time. most hackathons will land on weekends and if you are not mentally prepared in the week before, you may be overworked with no energy left for the weekend]. Also, the more hackathons you attend, the better you will understand your own physiology and psychology. Everyone has different productive zones. On a technical note, we wasted a lot of time with oAuth and parsing various variations of the same API. 
+## Any other takeaways?
+
 
 # ISB Civic hackathon - CodeForPakistan (ISB) - 2015, 
 ## Who was on the team
