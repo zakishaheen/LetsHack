@@ -109,7 +109,29 @@ We had no idea how to prototpye in AngularJS. While it was a fun time spent lear
 There was a lot of good networking experience. I had a good experience presenting the idea to a whoele bunch of investors and their questions were fun. Obviously, no one saw our demo and I think we wasted the night toiling at the code screens trying to make Material design work in AngularJS somehow. 
 
 
+# HackerRank CodeSprint
+## Who was on your hackathon team (I need their field of expertise and level of experience)?
+It was an individual only team. 
 
+## How did you hear about the hackathon?
+I follow hackerrank on social media and get a newsletter everyweek of upcoming online hackathons.
+ 
+## What was you/your team's big idea? 
+N/A
+
+## How did your team come up with the idea?
+N/A
+
+## What key (technological) decisions did you make and how?
+I decided to use C++ as that is my strongest language and library. It is also fast enough to stay under the watchdog radar for the online tests. Having a good C++ STL experience. I did switch to python when some algorithms got really intense to keep up with STL data structures. I think that is one of my weak point. 
+
+## What were the major achievements or takeaways from the hackathon?
+Picking the fastest langauge is good but it should not compromise developer productivity. While C++ data structures are super efficient, debugging them can eat up a lot of time. Most of it can be avoided by switching to python instead which is more declerative and readable while not a big compromise on speed. 
+
+## What challenges or setbacks did you face?
+
+
+## Any other memorable experience or take away form the hackathon?
 
 - HackerRank CodeSprints (Online) - 2015 - Individual Competitive programming hackathon. 5 problems ranging in difficulty. Favorite kind of hackathons - very heady and intense. we had a few redbulls so that did slightly make me jittery. It was on a weekend and we had had a tough week. Thrilling as it may sound or feel, it is almost never a good idea to burn out. 
 

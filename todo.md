@@ -45,6 +45,8 @@ inverted pyramid modeling
 - reach out to hackathon organizers to add them in book and get promotion in return. 
 - Find reviewers
 - write "about the reviewers"
+"policy background" > pitching at code4SF
+review letsHack on medium for read ratio calculation!
 
 
 # thoughts
