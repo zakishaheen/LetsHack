@@ -95,13 +95,15 @@ At one point when another team was presenting a full fledged voice controlled ro
 ## Who was on your hackathon team?
 We were one backend engineer (PHP), one iOS engineer and a business executive (CEO of a company in Islamabad). 
 ## How did you hear about the hackathon?
-I have been following the startupa scene in Lahore so I heard about it thru social media.  
+I have been following the startup scene in Lahore so I heard about it thru social media.  
 ## What was your team's big idea?
-We wanted to cetralize the processes information of acquiring critical government issued documents. 
+We wanted to cetralize the information for processes of acquiring critical government issued documents. 
 ## How did your team come up with the idea?
-I had been talking to my backend developers a few days before the hackathon. He had presented a few ideas and I presented mine. We decided that DocumentComplete is something both of us relate to very well (almost anyone would). We had a rough idea of what we wanted to build. 
+After attending the Islamabad Civic Hackathon by Code for Pakistan, I have been capturing more and more ideas to solve civic problems that people around me faced. One of the major problems is having to deal with different government offices to acquire documents. I thought about it for several months before realising it would be beneficial if only I knew what are the expectations and processes of these government offices are. 
+
+I had been talking to my backend developers a few days before the hackathon. He had presented a few ideas and I presented mine. We decided that DocumentComplete is something both of us relate to very well (almost anyone would). We had a rough idea of what we wanted to build. We did some initial paper mockups and narrowed down some tech decisions. 
 ## What key (technological) decisions did you make and how?
-We decided to prototype with AngularJS becasue that was something we wanted to learn. We did a lot of paper mockups.
+We decided to prototype with AngularJS because that was something we wanted to learn. We did a lot of paper mockups.
 ## What were the major achievements or takeaways from the hackathon?
 I think one of the good things I experimented with was the design process. We timeboxed our brainstorm sessions to 20 minutes and everyone would take with them whatever they wanted to from the brainstorm. Each brainstorm was in a very specific feature or screen. Each person would then go back and do a paper mockup of how they envision it to work. This may take 15-60 minutes depending on the complexity of the feature. We would thn assemble and present the idea to each other, give our critique and do another smaller iteration on the designs. At this point we voted for each screen and picked the best one and moved on. Systematically, we had a good UX setup. The only downside was that it took a lot of time and we were not concentrating on implementing or prototpying it properly. We learned a lot about setting up our financials. We decided we'll need an IVR service so I hustled to talk to an IVR recorder to get a static recording. 
 ## What challenges or setbacks did you face?
